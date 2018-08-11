@@ -444,7 +444,7 @@ namespace Fase1
 					}
 
 				}
-				Console.ReadKey ();
+				Console.WriteLine ("isso é um teste");
 
 			}
 		}
