@@ -24,7 +24,7 @@ namespace Fase1
 			altura = 1.70;
 			peso = 70;
 			louco = true;
-
+			/*
 			Console.WriteLine ("Escreva o nome do Persongem");
 			nome = Console.ReadLine ();
 
@@ -48,7 +48,7 @@ namespace Fase1
 			} else if (genero == "2"){
 				genero = "Feminino";
 			}
-
+			*/
 			//CLASSE
 
 			classe = "nulo";
